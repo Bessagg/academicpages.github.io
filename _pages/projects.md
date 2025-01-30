@@ -15,7 +15,8 @@ redirect_from:
 
 ---
 ## Surgical Instruments Detection with Custom Trainning (2024 --)
- -	The objective was to automate inventory managment with computer vision. A task that took over 20minutes, was done in a few seconds using our AI app and phone camera.
+ -	The objective was to automate inventory managment with computer vision.
+ -	Reduced operator time by 99%. A task that previously took over 20 minutes is now completed in seconds using our AI app and phone camera.
  -	The model identified missing components. YoLo model was used with custom training.
  -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact missing component's name was identified.
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. Some of the crazy tests and the solution's evolution are displayed below.
