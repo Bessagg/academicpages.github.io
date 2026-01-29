@@ -1,7 +1,7 @@
 ---
 title: "Predicting Porosity in Freeze Casting with Explainable Machine Learning"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'Freeze casting enables the fabrication of porous materials with tailored properties, but predicting porosity from process parameters is highly complex. In this work, we applied machine learning (CatBoost, Random Forest, XGBoost) to data from 252 studies across ceramics, polymers, and composites. CatBoost achieved the best performance (R² = 0.81). SHAP analysis identified solid loading as the main factor controlling porosity. Our results show that explainable ML can accelerate experimental design and support porosity optimization in freeze-cast materials.'
 date: 2025-06-16
